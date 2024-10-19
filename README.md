@@ -44,20 +44,6 @@ Welcome to **CyberFox**, where curiosity meets powerful network investigation to
 
 ---
 
-## **Preview** 📸
-
-Check out what **CyberFox** can do for you!
-
-- **Subdomain Enumeration**:
-  ![Subdomain](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
-
-- **SSL Certificate Lookup**:
-  ![SSL Certificate](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
-
-- **Shodan Search** (with API key):
-  ![Shodan Search](https://media.giphy.com/media/26xBIygOcC3bAWgDq/giphy.gif)
-
----
 
 ## **Under the Hood** 🛠️
 
