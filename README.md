@@ -3,8 +3,6 @@
 
 Welcome to **CyberFox**, where curiosity meets powerful network investigation tools. Whether you're hunting down subdomains, searching for SSL certs, or even poking around with zone transfers, **CyberFox** is here to help you **unveil the hidden**. Get ready for some serious sniffing! 🦊✨
 
-![CyberFox Banner](https://media.giphy.com/media/fAxxeV0wX6T44/giphy.gif)
-
 ---
 
 ## **Features** 🚀
